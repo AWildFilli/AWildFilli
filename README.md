@@ -13,4 +13,4 @@
 
 -----
 
-:necktie: [LinkedIn](https://www.linkedin.com/in/awildfilli/) :art: [ArtStation](https://www.artstation.com/awildfilli) :video_game: [itch.io](https://awildfilli.itch.io/) :musical_score: [SoundCloud](https://soundcloud.com/awildfilli) :loud_sound: [FreeSound](https://freesound.org/people/AWildFilli/) :bird: [Twitter](https://twitter.com/AWildFilli)
+:necktie: [LinkedIn](https://www.linkedin.com/in/awildfilli/) :video_game: [itch.io](https://awildfilli.itch.io/) :musical_score: [SoundCloud](https://soundcloud.com/awildfilli) :loud_sound: [FreeSound](https://freesound.org/people/AWildFilli/) :bird: [Twitter](https://twitter.com/AWildFilli)
